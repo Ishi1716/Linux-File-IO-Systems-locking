@@ -21,6 +21,7 @@ Execute the C Program for the desired output.
 
 ## 1.To Write a C program that illustrates files copying 
 
+![image](https://github.com/user-attachments/assets/3f7ba206-d75e-4bbd-9e94-ddf252cd29fd)
 
 
 
@@ -30,9 +31,15 @@ Execute the C Program for the desired output.
 ## 2.To Write a C program that illustrates files locking
 
 
+![image](https://github.com/user-attachments/assets/00e7851e-d292-469d-9a9a-33f27fbd479c)
+
+
 
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/cd2c0b2b-17f8-417a-909f-66da89267b60)
+
 
 
 
